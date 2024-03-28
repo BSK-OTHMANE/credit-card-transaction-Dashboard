@@ -24,6 +24,16 @@ After dropping the columns that are not used in the dashboard visualization, we 
 - Total_Trans_Ct
 - Avg_Utilization_Ratio
 
+##some pictures
+
+![img1](https://github.com/BSK-OTHMANE/credit-card-transaction-Dashboard/blob/main/Dashbord%20pics/dashboard1.png)
+
+![img2](https://github.com/BSK-OTHMANE/credit-card-transaction-Dashboard/blob/main/Dashbord%20pics/dashboard2.png)
+
+![img3](https://github.com/BSK-OTHMANE/credit-card-transaction-Dashboard/blob/main/Dashbord%20pics/dashboard3.png)
+
+![img4](https://github.com/BSK-OTHMANE/credit-card-transaction-Dashboard/blob/main/Dashbord%20pics/dashboard4.png)
+
 
 ## Contributing
 
