@@ -41,4 +41,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## Acknowledgments
 
-Special thanks to BOUSKINE OTHMNAE, BOULAALAM YASSINE, AMHAL MOHAMED, BOUHAFA TAHA for their contributions to this project.
+Special thanks to BOUSKINE OTHMANE, BOULAALAM YASSINE, AMHAL MOHAMED, BOUHAFA TAHA for their contributions to this project.
